@@ -1,0 +1,1 @@
+src = https://codeforces.com/contest/231/problem/A
