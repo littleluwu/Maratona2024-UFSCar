@@ -18,11 +18,11 @@ Seu programa deve imprimir dois valores, em linhas separadas. Na primeira linha,
 2 ≤ 𝑁 ≤ 10^5
 
 
-## 🧩 Processo de Resolucao
+## 🧩 Processo de Resolução
 
 > Detalhamento do processo em progresso...
 
-## 📝 Corretude da Solucao
+## 📝 Corretude da Solução
 
 A solução desenvolvida passou em todos os casos de testes.
 

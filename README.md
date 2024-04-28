@@ -1,8 +1,8 @@
-# 🦉 Maratona de Programacao 2024 | UFSCar-So
+# 🦉 Maratona de Programação 2024 | UFSCar-So
 
 Neste repositório se encontram as soluções elaboradas para os desafios semanais do treinamento para **Maratona de Programação 2024**, organizado pelos alunos da **UFSCar-So**.
 
-## 📒 - Organizacao do Repositorio
+## 📒 - Organização do Repositório
 
 A organização dos problemas no repositório é feita de acordo com as semanas de treinamento para a maratona. Cada semana conta com **5** desafios diferentes separados em suas respectivas pastas. As pastas contêm a solução proposta para o desafio, e também uma breve descrição do raciocínio empregado no desenvolvimento da resolução. 
 
@@ -17,10 +17,10 @@ Para facilitar o acompanhamento do treinamento para a maratona, abaixo se encont
 |     /     | Ex01 | Ex02 | Ex03 | Ex04 | Ex05 |
 |:---------:|:----:|:----:|:----:|:----:|:----:|
 | **Semana 01** |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
-| **Semana 02** |      |      |      |      |      |
+| **Semana 02** |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
 | **Semana 03** |      |      |      |      |      |
 | **Semana 04** |      |      |      |      |      |
 
-## 📑 - Informacoes Adicionais
+## 📑 - Informações Adicionais
 
 A linguagem de escolhida para o desenvolvimento das soluções foi **C++17**, primariamente devido a sua velocidade e disponibilidade de recursos.

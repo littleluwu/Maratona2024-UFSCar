@@ -20,11 +20,11 @@ Seu programa deve imprimir o maior número dentre os números da entrada.
 - 1 ≤ número da sequência ≤ 100
 
 
-## 🧩 Processo de Resolucao
+## 🧩 Processo de Resolução
 
 > Detalhamento do processo em progresso...
 
-## 📝 Corretude da Solucao
+## 📝 Corretude da Solução
 
 A solução desenvolvida passou em todos os casos de testes.
 

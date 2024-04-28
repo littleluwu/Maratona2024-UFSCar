@@ -11,11 +11,11 @@ A entrada consiste de dois números inteiros *`X`* e *`Y`*, um em cada linha.
 ### Saída
 A saída do seu programa deve ser um inteiro *`S`*, representando a soma de *`X`* e *`Y`*.
 
-## 🧩 Processo de Resolucao
+## 🧩 Processo de Resolução
 
 > Detalhamento do processo em progresso...
 
-## 📝 Corretude da Solucao
+## 📝 Corretude da Solução
 
 A solução desenvolvida passou em todos os casos de testes.
 

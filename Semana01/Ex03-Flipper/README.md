@@ -17,11 +17,11 @@ A saída do seu programa deve ser também apenas uma linha, contendo uma letra m
 - O número *`P`* pode ser 0 ou 1. 
 - O número *`R`* pode ser 0 ou 1.
 
-## 🧩 Processo de Resolucao
+## 🧩 Processo de Resolução
 
 > Detalhamento do processo em progresso...
 
-## 📝 Corretude da Solucao
+## 📝 Corretude da Solução
 
 A solução desenvolvida passou em todos os casos de testes.
 

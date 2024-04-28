@@ -16,11 +16,11 @@ Print YES, if the boys can divide the watermelon into two parts, each of them we
 
 
 
-## 🧩 Processo de Resolucao
+## 🧩 Processo de Resolução
 
 > Detalhamento do processo em progresso...
 
-## 📝 Corretude da Solucao
+## 📝 Corretude da Solução
 
 A solução desenvolvida passou em todos os casos de testes.
 
