@@ -15,11 +15,9 @@ The first line contains a non-empty string, that contains only lowercase English
 If it is a female by our hero's method, print "CHAT WITH HER!" (without the quotes), otherwise, print "IGNORE HIM!" (without the quotes).
 
 ## 🧩 Processo de Resolução
-
-> Detalhamento do processo em progresso...
+Neste problema estamos interessados apenas nos caracteres únicos. Podemos contar sempre que vimos um caracter pela primeira vez e decidir se o nome pertence a uma pessoa do sexo feminino ou masculino. Afim de saber quando já vimos um caracter ou não, precisaremos de uma estrutura adicional contendo 26 espaços para marcar os caracteres que foram vistos. E consultando essa estrutura, verificamos para cada caracter se ele é único ou já foi visto na sequência. Assim, ao final só precisamos checar a paridade da contagem para realizar a decisão.
 
 ## 📝 Corretude da Solução
-
 A solução desenvolvida passou em todos os casos de testes.
 
 ![Accepted](img/accepted.png)

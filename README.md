@@ -18,7 +18,7 @@ Para facilitar o acompanhamento do treinamento para a maratona, abaixo se encont
 |:---------:|:----:|:----:|:----:|:----:|:----:|
 | **Semana 01** |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
 | **Semana 02** |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
-| **Semana 03** |      |      |      |      |      |
+| **Semana 03** |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |
 | **Semana 04** |      |      |      |      |      |
 
 ## 📑 - Informações Adicionais

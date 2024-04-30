@@ -9,23 +9,17 @@ Sua tarefa é escrever um programa que dada uma sequência de números inteiros 
 ### Entrada
 A entrada é dada em uma única linha contendo uma sequência de números inteiros positivos. O último número da linha é 0 (zero).
 
-
 ### Saída
 Seu programa deve imprimir o maior número dentre os números da entrada.
-
-
 
 ### Restrições
 - 1 ≤ tamanho da sequência ≤100
 - 1 ≤ número da sequência ≤ 100
 
-
 ## 🧩 Processo de Resolução
-
-> Detalhamento do processo em progresso...
+Neste problema queremos encontrar o maior número dentre os números recebidos na entrada. Enquanto recebemos os números digitados, podemos manter uma variável auxiliar para armazenar qual foi o maior número visto até o presente momento. Quando recebermos um número maior do que aquele que conhecemos como maior, simplesmente atualizamos a variável para armazenar esse novo número recebido. O processo se repete até a sequência terminar com o dígito 0.
 
 ## 📝 Corretude da Solução
-
 A solução desenvolvida passou em todos os casos de testes.
 
 ![Accepted](img/accepted.png)

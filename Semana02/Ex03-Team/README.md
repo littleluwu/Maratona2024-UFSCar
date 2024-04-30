@@ -14,11 +14,9 @@ Print a single integer — the number of problems the friends will implement on 
 
 
 ## 🧩 Processo de Resolução
-
-> Detalhamento do processo em progresso...
+Em cada problema temos a informação de quem sabe resolvê-lo. Um problema a ser implementado precisa de duas pessoas que conhecem a solução. Sendo assim, como quem sabe o problema não é relevante, podemos somar o conhecimento dos três integrantes e ver se o resultado é pelo menos dois. Deste modo, quando o resultado eh pelo menos dois, adicionamos o problema como um a ser implementado.
 
 ## 📝 Corretude da Solução
-
 A solução desenvolvida passou em todos os casos de testes.
 
 ![Accepted](img/accepted.png)

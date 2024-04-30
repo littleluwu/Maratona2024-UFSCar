@@ -11,18 +11,13 @@ The first line of the input contains two integers n and h (1 ≤ n ≤ 1
 
 The second line contains n integers ai (1 ≤ ai ≤ 2h), the i-th of them is equal to the height of the i-th person.
 
-
 ### Saída
 Print a single integer — the minimum possible valid width of the road.
 
-
-
 ## 🧩 Processo de Resolução
-
-> Detalhamento do processo em progresso...
+O número mínimo de largura da rua é igual ao número de pessoas que passam por ela ao mesmo tempo. Nos casos especiais onde a pessoa é alta demais para passar, ela engatinha ocupando o espaço de duas pessoas. Assim, para sabermos a largura final, podemos apenas ir contando quantas pessoas estão passando pela cerca. Quando identificamos uma pessoa maior que a altura da cerca, contamos ela duas vezes, pois ela ocupa dois espaços. Assim, ao final temos a largura total da rua necessária para todos passarem.
 
 ## 📝 Corretude da Solução
-
 A solução desenvolvida passou em todos os casos de testes.
 
 ![Accepted](img/accepted.png)

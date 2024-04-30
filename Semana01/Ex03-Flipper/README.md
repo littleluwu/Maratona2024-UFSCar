@@ -6,9 +6,10 @@ Flíper é um tipo de jogo onde uma bolinha de metal cai por um labirinto de cam
 
 Você deve escrever um programa que, dadas as posições das portinhas *`P`* e *`R`*, neste flíper da figura, diga por qual dos três caminhos, A, B ou C, a bolinha vai cair!
 
+![alt text](img/flipper.png)
+
 ### Entrada
 A entrada é composta por apenas uma linha contendo dois números *`P`* e *`R`*, indicando as posições das duas portinhas do flíper da figura.
-
 
 ### Saída
 A saída do seu programa deve ser também apenas uma linha, contendo uma letra maiúscula que indica o caminho por onde a bolinha vai cair: 'A', 'B' ou 'C'.
@@ -18,11 +19,9 @@ A saída do seu programa deve ser também apenas uma linha, contendo uma letra m
 - O número *`R`* pode ser 0 ou 1.
 
 ## 🧩 Processo de Resolução
-
-> Detalhamento do processo em progresso...
+O problema em questão pode ser resolvido a partir da checagem lógica das condições iniciais. Quando a portinha P está na posição 0 o único caminho possível é o caminho C, na posição contrária temos que checar a portinha R. Similar à porta anterior, na posição 0 o único caminho é o caminho B e na posição 1 o único caminho é o caminho A. Entendendo a lógica, simplesmente escrevemos ela como um condicional aninhado para decidir qual caminho tomar.
 
 ## 📝 Corretude da Solução
-
 A solução desenvolvida passou em todos os casos de testes.
 
 ![Accepted](img/accepted.png)

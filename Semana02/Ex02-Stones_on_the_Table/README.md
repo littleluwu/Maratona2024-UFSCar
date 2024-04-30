@@ -1,4 +1,4 @@
-# 🪨 Stones on the Table
+# 🗿 Stones on the Table
 
 **Fonte: [Codeforces](https://codeforces.com/contest/266/problem/A)**
 
@@ -12,13 +12,10 @@ The next line contains string s, which represents the colors of the stones. We'l
 ### Saída
 Print a single integer — the answer to the problem.
 
-
 ## 🧩 Processo de Resolução
-
-> Detalhamento do processo em progresso...
+A entrada nos fornece as pedras que estão dispostas sobre a mesa. O objetivo é saber quantas precisamos remover para que nenhuma pedra seja vizinha de sua própria cor. Para tal, cada pedra que esteja adjacente a sua própria cor necessita ser removida. Como a ideia não é remover as pedras ao longo da entrada e sim contar apenas quantas precisam ser removidas, não precisamos nos preocupar com a mesa mudando de estado a cada remoção. A contagem pode ser feita mantendo a informação da pedra anterior ao recebermos a entrada, e em caso delas terem a mesma cor marcamos uma remoção necessária. Assim, ao final temos o número de pedras que precisam ser removidas.
 
 ## 📝 Corretude da Solução
-
 A solução desenvolvida passou em todos os casos de testes.
 
 ![Accepted](img/accepted.png)

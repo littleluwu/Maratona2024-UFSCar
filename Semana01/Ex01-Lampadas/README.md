@@ -8,7 +8,6 @@ As lâmpadas inicialmente estão ambas apagadas. Seu amigo resolveu bolar um des
 *`A`* e *`B`*.
 
 ### Entrada
-
 A primeira linha contém um número *`N`* que representa quantas vezes seu amigo irá apertar algum interruptor. Na linha seguinte seguirão N números, que pode ser 1, se o interruptor *`I1`* foi apertado, ou 2, se o interruptor *`I2`* foi apertado.
 
 ### Saída
@@ -19,11 +18,10 @@ Seu programa deve imprimir dois valores, em linhas separadas. Na primeira linha,
 
 
 ## 🧩 Processo de Resolução
+Para resolução do problema, como primeira ideia podemos pensar em iniciar duas variáveis representando as lâmpadas e ir atualizando elas conforme as regras de entrada. Um ponto interessante de se notar é que as lâmpadas alternam entre apenas dois estados, e essa alternância é feita de maneira circular. Usando essa informação, não precisamos mais atualizar o estado da lâmpada a cada novo comando, apenas mantemos um contador de quantas vezes cada lâmpada trocou de estado. Assim, para sabermos o estado que a lâmpada parou no final da execução, podemos realizar uma divisão modular sobre a quantidade de vezes que a lâmpada trocou de estado.
 
-> Detalhamento do processo em progresso...
 
 ## 📝 Corretude da Solução
-
 A solução desenvolvida passou em todos os casos de testes.
 
 ![Accepted](img/accepted.png)

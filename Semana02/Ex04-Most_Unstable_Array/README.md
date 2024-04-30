@@ -17,13 +17,10 @@ The only line of the test case contains two integers n and m (1 ≤ n , m ≤ 10
 For each test case, print the answer — the maximum possible value of $\sum_{i=1}^{n−1}|a_i−a_{i+1}$|
 for the array a consisting of n non-negative integers with the sum m.
 
-
 ## 🧩 Processo de Resolução
-
-> Detalhamento do processo em progresso...
+Para elaborar uma solução eficiente para esse problema, precisamos de uma heurística para tomar a decisão sem testar todas as possibilidades. No caso do tamanho da array ser 1, não é possível realizar nenhuma soma e o valor máximo é 0. Quando o tamanho disponível é 2, o melhor caso é subtraindo 0 do número m, resultando na soma sendo exatamente o valor m. Para os demais casos, a estratégia de pensamento é similar. Usando o número m inteiramente ele pode aparecer no máximo duas vezes em subtrações diferentes ao longo da array, assim o valor máximo em todos os casos não pode ultrapassar 2m. Então, para sabermos o valor máximo da array, precisamos multiplicar em base nos casos discutidos. Podemos fazer isso utilizando a função min() com o maior valor sendo 2 e o segundo valor sendo n-1, abrangendo todos os casos.
 
 ## 📝 Corretude da Solução
-
 A solução desenvolvida passou em todos os casos de testes.
 
 ![Accepted](img/accepted.png)
