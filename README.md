@@ -14,15 +14,16 @@ O estado de resolução do desafio está contido logo após o detalhamento da so
 Para facilitar o acompanhamento do treinamento para a maratona, abaixo se encontra uma tabela agrupando os estados dos desafios propostos ao longo das semanas de treinamento.
 
 
-|     /     | Ex01 | Ex02 | Ex03 | Ex04 | Ex05 | Ex06 |
-|:---------:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **Semana 01** |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ➖  |
-| **Semana 02** |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ➖  |
-| **Semana 03** |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ➖  |
-| **Semana 04** |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ➖  |
-| **Mini Maratona** |  ✅  |  ✅  |  ✅  |      |      |  ❌  |
-| **Semana 05** |  ✅  |  ✅  |  ❌  |  ✅  |  ➖  |  ➖  |
-| **Semana 06** |  ✅  |  ✅  |  ✅  |  ✅  |  ➖  |  ➖  |
+|     /     | Ex01 | Ex02 | Ex03 | Ex04 | Ex05 | Ex06 | Ex07 | Ex08 |
+|:---------:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| **Semana 01** |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ➖  |  ➖  |  ➖  |
+| **Semana 02** |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ➖  |  ➖  |  ➖  |
+| **Semana 03** |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ➖  |  ➖  |  ➖  |
+| **Semana 04** |  ✅  |  ✅  |  ✅  |  ✅  |  ✅  |  ➖  |  ➖  |  ➖  |
+| **Mini Maratona I** |  ✅  |  ✅  |  ✅  |  ✅  |      |  ✅  |  ➖  |  ➖  |
+| **Semana 05** |  ✅  |  ✅  |  ✅  |  ✅  |  ➖  |  ➖  |  ➖  |  ➖  |
+| **Semana 06** |  ✅  |  ✅  |  ✅  |  ✅  |  ➖  |  ➖  |  ➖  |  ➖  |
+| **Mini Maratona II** |      |      |      |      |      |      |      |      |
 
 ## 📑 - Informações Adicionais
 

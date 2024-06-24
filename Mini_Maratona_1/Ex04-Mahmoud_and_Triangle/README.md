@@ -21,3 +21,4 @@ In the only line print "YES" if he can choose exactly three line segments and fo
 ## 📝 Corretude da Solução
 A solução desenvolvida passou em todos os casos de testes.
 
+![Accepted](img/accepted.png)

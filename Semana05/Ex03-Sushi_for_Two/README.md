@@ -28,3 +28,4 @@ Print a single integer — the maximum length of a valid continuous segment.
 ## 📝 Corretude da Solução
 A solução desenvolvida passou em todos os casos de testes.
 
+![Accepted](img/accepted.png)

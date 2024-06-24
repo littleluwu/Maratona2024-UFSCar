@@ -25,3 +25,4 @@ Print a single integer denoting the maximal number of products that shop can sel
 ## 📝 Corretude da Solução
 A solução desenvolvida passou em todos os casos de testes.
 
+![Accepted](img/accepted.png)
