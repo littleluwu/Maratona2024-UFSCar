@@ -23,7 +23,12 @@ Para facilitar o acompanhamento do treinamento para a maratona, abaixo se encont
 | **Mini Maratona I** |  ✅  |  ✅  |  ✅  |  ✅  |      |  ✅  |  ➖  |  ➖  |
 | **Semana 05** |  ✅  |  ✅  |  ✅  |  ✅  |  ➖  |  ➖  |  ➖  |  ➖  |
 | **Semana 06** |  ✅  |  ✅  |  ✅  |  ✅  |  ➖  |  ➖  |  ➖  |  ➖  |
-| **Mini Maratona II** |      |      |      |      |      |      |      |      |
+| **Mini Maratona II** |  ✅  |  ✅  |      |  ✅  |      |  ✅  |  ✅  |  ✅  |
+| **Mini Maratona III** |  ✅  |       |      |      |      |  ➖  |  ➖  |  ➖  |
+| **Semana 07** |  ✅  |      |      |  ➖  |  ➖  |  ➖  |  ➖  |  ➖  |
+| **Semana 08** |      |      |  ➖  |  ➖  |  ➖  |  ➖  |  ➖  |  ➖  |
+| **Mini Maratona IV** |      |       |      |      |      |  ➖  |  ➖  |  ➖  |
+| **Semana 09** |      |      |      |      |  ➖  |  ➖  |  ➖  |  ➖  |
 
 ## 📑 - Informações Adicionais
 
