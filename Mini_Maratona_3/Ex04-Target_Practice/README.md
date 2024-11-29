@@ -23,3 +23,4 @@ For each test case, output a single integer — the total number of points of th
 ## 📝 Corretude da Solução
 A solução desenvolvida passou em todos os casos de testes.
 
+![Accepted](img/accepted.png)

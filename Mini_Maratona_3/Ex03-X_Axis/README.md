@@ -24,3 +24,4 @@ For each test case, output the smallest value of $f(a)$.
 ## 📝 Corretude da Solução
 A solução desenvolvida passou em todos os casos de testes.
 
+![Accepted](img/accepted.png)

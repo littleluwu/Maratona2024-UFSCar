@@ -40,3 +40,4 @@ For each test case, output the minimum number of operations K1o0n needs to resto
 ## 📝 Corretude da Solução
 A solução desenvolvida passou em todos os casos de testes.
 
+![Accepted](img/accepted.png)

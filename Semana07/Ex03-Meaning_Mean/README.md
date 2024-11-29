@@ -33,3 +33,4 @@ For each test case, output a single integer: the maximum possible value of $x$ a
 ## 📝 Corretude da Solução
 A solução desenvolvida passou em todos os casos de testes.
 
+![Accepted](img/accepted.png)
