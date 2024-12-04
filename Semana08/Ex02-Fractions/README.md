@@ -1,6 +1,6 @@
 # ➗ Fractions are better when continued
 
-**Fonte: [Codeforces](https://codeforces.net/gym/105327/problem/F)**
+**Fonte: [Codeforces](https://codeforces.com/gym/105327/problem/F)**
 
 Little Charles was one of the best competitive programmers in the world. However, he never really liked programming. Now that he is retired, he can dedicate his studies to what he really loves: continued fractions.
 
@@ -32,3 +32,4 @@ The value $pN$ can be written as a fraction of the form $\frac{a}{b}$, where $a$
 ## 📝 Corretude da Solução
 A solução desenvolvida passou em todos os casos de testes.
 
+![Accepted](img/accepted.png)
