@@ -18,21 +18,20 @@ int main(){
         int right = 0;
 
         int min = n;
+        int currMin = 0;
 
-        while (left <= n-k){
-            int curr = 0;
-            right = left;
+        while (right < n){
+            if(s[right] == 'W') currMin++;
 
-            while (right < left+k){
-                if (s[right] == 'W') curr++;
-                right++;
+            if(right >= k-1){
+                if (currMin < min) min = currMin;
+                if(s[left] == 'W') currMin--;
+                left++;
             }
-            
-            if (curr < min) min = curr;
-            if (min == 0) break;
-            left++;
-        }
 
+            right++;
+        }
+        
         cout << min << endl;
     }
     

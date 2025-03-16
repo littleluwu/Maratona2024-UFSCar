@@ -23,3 +23,5 @@ Print such integer $j$ that the sum of the heights of planks $j, j + 1, ...,
 
 ## 📝 Corretude da Solução
 A solução desenvolvida passou em todos os casos de testes.
+
+![Accepted](img/accepted.png)

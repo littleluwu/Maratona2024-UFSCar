@@ -27,3 +27,5 @@ For each of $t$ test cases print an integer — the minimum number of cells that
 
 ## 📝 Corretude da Solução
 A solução desenvolvida passou em todos os casos de testes.
+
+![Accepted](img/accepted.png)

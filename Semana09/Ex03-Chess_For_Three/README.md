@@ -24,3 +24,5 @@ For each testcase, print one number — the maximum possible number of draws tha
 
 ## 📝 Corretude da Solução
 A solução desenvolvida passou em todos os casos de testes.
+
+![Accepted](img/accepted.png)
