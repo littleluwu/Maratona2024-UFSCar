@@ -32,7 +32,7 @@ Para facilitar o acompanhamento do treinamento para a maratona, abaixo se encont
 | **Semana 10** |  ✅  |  ✅  |  ✅  |  ✅  |  ➖  |  ➖  |  ➖  |  ➖  |
 | **Semana 11** |  ✅  |  ❌  |      |      |  ➖  |  ➖  |  ➖  |  ➖  |
 | **Semana 12** |  ✅  |  ❌  |      |  ➖  |   ➖  |  ➖  |  ➖  |  ➖  |
-| **Mini Maratona V** |      |       |      |      |      |  ➖  |  ➖  |  ➖  |
+| **Mini Maratona V** |  ✅  |  ✅  |  ✅  |  ✅  |      |  ➖  |  ➖  |  ➖  |
 
 ## 📑 - Informações Adicionais
 
